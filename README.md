@@ -1,3 +1,3 @@
 # Mini_Projects
 
-This Repository contains several Python Mini Projects made by me in the process of learning Python.
+A collection of simple python mini projects to enhance your Python skills.
